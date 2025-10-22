@@ -2,6 +2,9 @@
   <img align="center" src="combat_continuity.png" alt="Vanilla Expanded x Combat Continuity Logo"/>
 </div>
 
+
+# <h1 align="center"> ⚠️ This project has concluded ⚠️ </h1>
+
 # <h1 align="center"> What is Combat Continuity? </h1>
 
 ---
